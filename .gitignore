@@ -1,0 +1,14 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.idea/
+android/.gradle/
+android/captures/
+android/gradle/
+android/local.properties
+.DS_Store
+*.iml
